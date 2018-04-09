@@ -1,2 +1,2 @@
-# 040218SX.github.io
-My GitHub Pages Site
+# JStollman.github.io
+My Github Pages Project
